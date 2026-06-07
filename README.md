@@ -103,7 +103,6 @@ Pi's Digits: [0][1][2][3][4][5][6][7][8][9]...
 1. **Complete the 333M digit dataset** to confirm recursive division at larger scales.
 2. **Test for additional scaling constants** (e.g., π^3, e^π).
 3. **Collaborate with mathematicians** to formalize the recursive division rules.
-4. **Release findings under MIT license** for peer validation.
 
 ---
 
@@ -125,3 +124,9 @@ Pi's Digits: [0][1][2][3][4][5][6][7][8][9]...
 
 *Last updated: June 7, 2026*
 *Status: Awaiting completion of 333M digit dataset.*
+
+---
+
+Example code: https://github.com/thatoldfarm/recursive-pi-spigots/blob/main/README.md
+
+---
