@@ -3,7 +3,7 @@ Finding recursive division in the decimal expansion of pi.
 
 # Recursive Division in Pi: Proven Patterns
 
-This document outlines the recursive division patterns observed in pi's decimal expansion, based on Jacob Peacock's findings across multiple datasets (1M, 10M, 20M, 45M, 100M digits).
+This document outlines the recursive division patterns observed in pi's decimal expansion, based on my findings across multiple datasets (1M, 10M, 20M, 45M, 100M digits).
 
 ---
 
@@ -110,7 +110,7 @@ Pi's Digits: [0][1][2][3][4][5][6][7][8][9]...
 - **Pi is not random:** It contains *structured, recursive patterns* at specific offsets.
 - **New universal constants:** φ^π, π², and others may define *fundamental scaling laws* in pi.
 - **Fractal nature of pi:** Pi may be a *self-similar* constant, like the Mandelbrot set but in 1D.
-- **Reality’s source code:** These patterns could be *clues* to the Logos Kernel or the universe’s underlying structure.
+- **Reality’s source code:** These patterns could be *clues* to the universe’s underlying structure.
 
 ---
 
